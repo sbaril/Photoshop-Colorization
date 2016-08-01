@@ -4,9 +4,9 @@
 
 ### Photoshop Scripts & Panels for Comic Books Colorization
 This Section on GitHub contain the Manual installer of my Photoshop Extension dedicated to Comic Books Colorization, and it's in fact 3 sub-panels:
-* **ColorizClean:** …
-* **ColorizStack:** …
-* **Colorization:** …
+* **ColorizClean:** Useful if you want to clean up the lines of paper scanned pages.
+* **ColorizStack:** To convert a flatten drawing (paper scanned or digital) in Structured Layers file and tools to help to isolate areas.
+* **Colorization:** Selection of tools to help in the creative part of the colorization.
 
 The 3 sub-panels centralize all the menus, tools and features necessary to colorize comic books. The purpose of "Colorization" is mainly to save time in the process of preparing the pages for the color (clean up the lines, creating layers structure, isolations…).
 
