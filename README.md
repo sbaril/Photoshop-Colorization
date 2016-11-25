@@ -5,20 +5,53 @@
 ### Photoshop Scripts & Panels for Comic Books Colorization
 This Section on GitHub contain the Manual installer of my Photoshop Extension dedicated to Comic Books Colorization, and it's in fact 3 sub-panels:
 * **ColorizClean:** Useful if you want to clean up the lines of paper scanned pages.
-* **ColorizStack:** To convert a flatten drawing (paper scanned or digital) in Structured Layers file and tools to help to isolate areas.
+* **ColorizStack:** To convert a flatten drawing (paper scanned or digital) in Structured Layers file, with tools to help to isolate areas.
 * **Colorization:** Selection of tools to help in the creative part of the colorization.
 
 The 3 sub-panels centralize all the menus, tools and features necessary to colorize comic books. The purpose of "Colorization" is mainly to save time in the process of preparing the pages for the color (clean up the lines, creating layers structure, isolations…).
 
-The **ZIP file** is the **Manual/Custom Installer** of **Colorization**.
-* Actually, **this Manual/Custom Installers is the up-to-date versions of Colorization**.
+The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean** and **ColorizStack**.
+* Actually, **these Installers are the up-to-date versions of Colorization**.
 * I didn't had the time yet to fix the Addon Portal version!
 	* https://creative.adobe.com/addons/products/12047
+
+**Tutorials** and **Infos** on my Colorization Subpanels Extensions: 
+* http://sbaril.me/#comic-books-colorisation-colorization
+* https://vimeo.com/album/1800688
+
+--
+
+### Photoshop CC 2017 Installer 
+*Installer compatible with the Photoshop versions from CC 2014 to CC 2017+*
+#### *How to install the Colorization Subpanels:*
+1.  **Download** the **installers**/**ressources**:
+	* "**ColorizationPanel-cc17.zxp**", "**ColorizCleanPanel-cc17.zxp**", "**ColorizStackPanel-cc17.zxp**" and "**Colorization-Presets-cc17.zip**" from my GitHub. 
+	* Here my GitHub: https://github.com/sbaril/Photoshop-Animation
+	* *BTW: this installer also works for CC 2014, 2015 and 2015.5.*
+2.  **Download** the **ExtensionManager** from Anastasiy:
+http://install.anastasiy.com/
+	* **Launch ExtensionManager** and install "**ColorizationPanel-cc17.zxp**", "**ColorizCleanPanel-cc17.zxp**" and/or "**ColorizStackPanel-cc17.zxp**" using one of these 2 methods:
+		1. Choose the **Install** menu and locate the "**ColorizStackPanel-cc17.zxp**" on your computer.
+		2. **Drag and drop** the "**ColorizStackPanel-cc17.zxp**" file on the **ExtensionManager window**.
+		3. Repeat this step for "**ColorizationPanel-cc17.zxp**" and "**ColorizCleanPanel-cc17.zxp**"
+3. **Extension Presets** Manual **Installation**:
+	* Unzip "**Colorization-Presets-cc17.zip**".
+	* **Copy** the "**Colorization_Scripts**" folder in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Scripts**" folder.
+	* **Tips**: Assign Shortcuts to these Scripts using the menu "Edit" > "Keyboard Shortcuts" > "Application Menus" > "File" > "Scripts" section.
+	* **Copy** the "**Colorization.tpl**" file in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Tools**" folder.
+	* **Copy** the "**Colorization.atn**" file in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Actions**" folder.
+4. **Launch Photoshop**:
+	* To open the panel go to the menu **Window** > **Extensions** > **ColorizClean**, **ColorizStack** and/or **Colorization**.
+	* Please verify if the "Coloriz…" scripts are available in the submenu: **File** > **Scripts**. *(Useful if you want de define Keyboard Shortcuts).* 
+	* Load "**Colorization**" from the **Tool Presets Panel flyout menu**.
+	* Load "**Colorization**" from the **Actions Panel flyout menu**.
+	* Quit Photoshop to automatically save the Presets Preferences (Tools loaded and Keyboard Shortcuts). *In case of you'll crash Photoshop that will prevent you to do these steps again!* 
+	* **Relaunch Photoshop** and you're **ready** to go :)
 
 
 --
 
-### Photoshop CC 2014, 2015 and 2015.5 Installer 
+### Archive: *Photoshop CC 2014, 2015 and 2015.5 Installer* 
 #### *How to install AnimDessin2 or AnimCouleur2:*
 1. Download and Unzip **Colorization-CC-2015.zip**
 	* You will find 3 subfolders:
@@ -45,7 +78,7 @@ The **ZIP file** is the **Manual/Custom Installer** of **Colorization**.
 
 --	
 
-#### *My custom installers are based on the great ressources provided by Davide Barranca… A bid THANKS to him:*
+#### *A big THANKS to Davide Barranca for his great ressources on HTML Panels:*
 * http://www.davidebarranca.com
 * http://htmlpanelsbook.com/
 * http://www.davidebarranca.com/2016/06/html-panel-tips-21-photoshop-cc2015-5-2016-survival-guide/
