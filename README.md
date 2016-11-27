@@ -25,7 +25,7 @@ The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean**
 *Installer compatible with the Photoshop versions from CC 2014 to CC 2017+*
 #### *How to install the Colorization Subpanels:*
 1.  **Download** the **installers**/**ressources**:
-	* "**ColorizationPanel-cc17.zxp**", "**ColorizCleanPanel-cc17.zxp**", "**ColorizStackPanel-cc17.zxp**" and "**Colorization-Presets-cc17.zip**" from my GitHub. 
+	* "**ColorizationPanel-cc17.zxp**", "**ColorizCleanPanel-cc17.zxp**", "**ColorizStackPanel-cc17.zxp**" and "**Colorization-Presets.zip**" from my GitHub. 
 	* Here my GitHub: https://github.com/sbaril/Photoshop-Animation
 	* *BTW: this installer also works for CC 2014, 2015 and 2015.5.*
 2.  **Download** the **ExtensionManager** from Anastasiy:
@@ -35,7 +35,7 @@ http://install.anastasiy.com/
 		2. **Drag and drop** the "**ColorizStackPanel-cc17.zxp**" file on the **ExtensionManager window**.
 		3. Repeat this step for "**ColorizationPanel-cc17.zxp**" and "**ColorizCleanPanel-cc17.zxp**"
 3. **Extension Presets** Manual **Installation**:
-	* Unzip "**Colorization-Presets-cc17.zip**".
+	* Unzip "**Colorization-Presets.zip**".
 	* **Copy** the "**Colorization_Scripts**" folder in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Scripts**" folder.
 	* **Tips**: Assign Shortcuts to these Scripts using the menu "Edit" > "Keyboard Shortcuts" > "Application Menus" > "File" > "Scripts" section.
 	* **Copy** the "**Colorization.tpl**" file in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Tools**" folder.
