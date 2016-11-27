@@ -53,7 +53,7 @@ http://install.anastasiy.com/
 
 ### Archive: *Photoshop CC 2014, 2015 and 2015.5 Installer* 
 #### *How to install AnimDessin2 or AnimCouleur2:*
-1. Download and Unzip **Colorization-CC-2015.zip**
+1. Download and Unzip **Archive-Colorization-CC-2015.zip**
 	* You will find 3 subfolders:
 		* ColorizClean
 		* ColorizStack
