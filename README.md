@@ -10,7 +10,7 @@ This Section on GitHub contain the Manual installer of my Photoshop Extension de
 
 The 3 sub-panels centralize all the menus, tools and features necessary to colorize comic books. The purpose of "Colorization" is mainly to save time in the process of preparing the pages for the color (clean up the lines, creating layers structure, isolations…).
 
-The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean** and **ColorizStack**.
+The 3 **Panels** are the **"Installers"** of **Colorization**, **ColorizClean** and **ColorizStack**.
 * Actually, **these Installers are the up-to-date versions of Colorization**.
 * I didn't had the time yet to fix the Addon Portal version!
 	* https://creative.adobe.com/addons/products/12047
