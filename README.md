@@ -16,56 +16,42 @@ The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean**
 	* https://creative.adobe.com/addons/products/12047
 
 **Tutorials** and **Infos** on my Colorization Subpanels Extensions: 
-* http://sbaril.me/#comic-books-colorisation-colorization
+* https://kixtag.com/colorisation
 * https://vimeo.com/album/1800688
 
 --
 
-### Photoshop CC 2017 Installer 
-*Installer compatible with the Photoshop versions from CC 2014 to CC 2018+*
-#### *How to install the Colorization Subpanels:*
-1.  **Download** the **installers**/**ressources**:
-	* "**ColorizationPanel-cc17.zxp**", "**ColorizCleanPanel-cc17.zxp**", "**ColorizStackPanel-cc17.zxp**" and "**Colorization-Presets.zip**" from my GitHub. 
-	* Here my GitHub: https://github.com/sbaril/Photoshop-Animation
-	* *BTW: this installer also works for CC 2014, 2015 and 2015.5.*
-2.  **Download** the **ExtensionManager** from Anastasiy:
-http://install.anastasiy.com/
-	* **Launch ExtensionManager** and install "**ColorizationPanel-cc17.zxp**", "**ColorizCleanPanel-cc17.zxp**" and/or "**ColorizStackPanel-cc17.zxp**" using one of these 2 methods:
-		1. Choose the **Install** menu and locate the "**ColorizStackPanel-cc17.zxp**" on your computer.
-		2. **Drag and drop** the "**ColorizStackPanel-cc17.zxp**" file on the **ExtensionManager window**.
-		3. Repeat this step for "**ColorizationPanel-cc17.zxp**" and "**ColorizCleanPanel-cc17.zxp**"
-3. **Extension Presets** Manual **Installation**:
-	* Unzip "**Colorization-Presets.zip**".
-	* **Copy** the "**Colorization_Scripts**" folder in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Scripts**" folder.
-	* **Tips**: Assign Shortcuts to these Scripts using the menu "Edit" > "Keyboard Shortcuts" > "Application Menus" > "File" > "Scripts" section.
-	* **Copy** the "**Colorization.tpl**" file in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Tools**" folder.
-	* **Copy** the "**Colorization.atn**" file in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Actions**" folder.
-4. **Launch Photoshop**:
-	* To open the panel go to the menu **Window** > **Extensions** > **ColorizClean**, **ColorizStack** and/or **Colorization**.
-	* Please verify if the "Coloriz…" scripts are available in the submenu: **File** > **Scripts**. *(Useful if you want de define Keyboard Shortcuts).* 
-	* Load "**Colorization**" from the **Tool Presets Panel flyout menu**.
-	* Load "**Colorization**" from the **Actions Panel flyout menu**.
-	* Quit Photoshop to automatically save the Presets Preferences (Tools loaded and Keyboard Shortcuts). *In case of you'll crash Photoshop that will prevent you to do these steps again!* 
-	* **Relaunch Photoshop** and you're **ready** to go :)
+### Disclaimer
+**I don't maintain anymore the installer of the Photoshop CS6** version of AnimDessin and AnimCouleur because my process to package/sign the extension doesn't work anymore.
 
+So, try first the "Photoshop CS6 Installer" process and – if it doesn't work – please try the Workarounds.
 
 --
 
-### Archive: *Photoshop CC 2014, 2015 and 2015.5 Installer* 
-#### *How to install AnimDessin2 or AnimCouleur2:*
-1. Download and Unzip **Archive-Colorization-CC-2015.zip**
-	* You will find 3 subfolders:
-		* ColorizClean
-		* ColorizStack
-		* Colorization
-	* Read the "README.md" or "README.pdf" file inside the Main Unzipped folder.
-	* The complete "Colorization" Addon need 2 extra steps to install the Tool Presets and the Actions Presets.
-2. Launch Photoshop and, for each subpanel, select:
-	* File > Scripts > Browse… 
-	* Browse your file system to find the "installer.jsx" file contained in the "ColorizClean" folder (repeat this step for "ColorizStack" and "Colorization").
-	* Relaunch Photoshop 
-	* To open the panel go to the menu Window > Extensions > ColorizClean, ColorizStack and Colorization 
-	* Please verify if the "Colorization…" scripts are available in the submenu: File > Scripts. *(Useful if you want de define Keyboard Shortcuts).* 
+### Archive: *"3 Ways to Install the CS6 Panels"*
+At this date, I'm not able to export ZXP from Adobe Configurator 4!
+
+#### *3 Possible Solutions*
+1. **Simply install the Scripts and use its with no UI**
+	* Copy the "Colorization_Scripts" folder from the "4-Addons-Ressources" folder in your Programs/Applications > "Adobe Photoshop CS6" > "Presets" > "Scripts" folder.
+	* Restart Photoshop.
+	* Assign Shortcuts to these Scripts using the menu "Edit" > "Keyboard Shortcuts" > "Application Menus" > "File" > "Scripts" section.
+	* Copy the "Colorization_Tools.tpl" folder from the "4-Addons-Ressources" folder in your Programs/Applications > "Adobe Photoshop CS6" > "Presets" > "Tools" folder. *You'll need to load them from the "Tools" panel flyout menu.*
+	* Copy the "Colorization.atn" folder from the "4-Addons-Ressources" folder in your Programs/Applications > "Adobe Photoshop CS6" > "Presets" > "Actions" folder. *You'll need to load them from the "Actions" panel flyout menu.*
+2. **Manual process** – ***Perhaps the simpliest/quickest workaround!***
+	* Unzip "ColorizClean.zip", "ColorizStack.zip" and/or "Colorization.zip" from the "2-Panels-Content" folder.
+	* Move the Unzipped folder ("ColorizClean", "ColorizStack" or "Colorization") in you Applications/Programmes > "Adobe Photoshop CS6" > "Plug-ins" > "Panels" folder.
+	* Copy Scripts/Tools/Actions needed by following the First Solution.
+	* Restart Photoshop.
+3. **Configurator Source Files Exportation**
+	* Unzip "ColorizClean.zip", "ColorizStack.zip" and/or "Colorization.zip" from the "3-Configurator4-Project-Sources" folder.
+	* Download and install "Adobe Configurator 4" from here: https://labs.adobe.com/downloads/configurator.html
+	* It's based on the "Adobe AIR" runtime so if it's not installed on your computer you'll find it here: https://get.adobe.com/fr/air/
+	* Open in Configurator "AnimDessin.gpc" or "AnimCouleur.gpc" located in the unzipped "AnimDessin" or "AnimCouleur" folder. 
+	* Choose "File" > "Export Panel" and set the path location in the Applications/Programs > "Adobe Photoshop CS6" > "Plug-ins" > "Panels" folder.
+	* Copy Scripts/Tools/Actions needed by following the First Solution.
+	* Restart Photoshop.
+	* *And you can modify the project as you wish ;-)*
 
 
 		
@@ -75,10 +61,3 @@ http://install.anastasiy.com/
 
 
 
-
---	
-
-#### *A big THANKS to Davide Barranca for his great ressources on HTML Panels:*
-* http://www.davidebarranca.com
-* http://htmlpanelsbook.com/
-* http://www.davidebarranca.com/2016/06/html-panel-tips-21-photoshop-cc2015-5-2016-survival-guide/
