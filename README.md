@@ -16,7 +16,7 @@ The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean**
 	* https://creative.adobe.com/addons/products/12047
 
 **Tutorials** and **Infos** on my Colorization Subpanels Extensions: 
-* http://sbaril.me/#comic-books-colorisation-colorization
+* https://kixtag.com/colorisation
 * https://vimeo.com/album/1800688
 
 --
@@ -36,10 +36,10 @@ http://install.anastasiy.com/
 		3. Repeat this step for "**ColorizationPanel-cc17.zxp**" and "**ColorizCleanPanel-cc17.zxp**"
 3. **Extension Presets** Manual **Installation**:
 	* Unzip "**Colorization-Presets.zip**".
-	* **Copy** the "**Colorization_Scripts**" folder in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Scripts**" folder.
+	* **Copy** the "**Colorization_Scripts**" folder from the "**Colorization-Presets**" folder in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Scripts**" folder.
 	* **Tips**: Assign Shortcuts to these Scripts using the menu "Edit" > "Keyboard Shortcuts" > "Application Menus" > "File" > "Scripts" section.
-	* **Copy** the "**Colorization.tpl**" file in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Tools**" folder.
-	* **Copy** the "**Colorization.atn**" file in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Actions**" folder.
+	* **Copy** the "**Colorization.tpl**" file from the "**Colorization-Presets**" folder in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Tools**" folder.
+	* **Copy** the "**Colorization.atn**" file from the "**Colorization-Presets**" folder in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Actions**" folder.
 4. **Launch Photoshop**:
 	* To open the panel go to the menu **Window** > **Extensions** > **ColorizClean**, **ColorizStack** and/or **Colorization**.
 	* Please verify if the "Coloriz…" scripts are available in the submenu: **File** > **Scripts**. *(Useful if you want de define Keyboard Shortcuts).* 
