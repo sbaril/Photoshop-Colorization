@@ -1,5 +1,5 @@
 # Photoshop-Colorization
-##Comic Books Colorization  
+## Comic Books Colorization
 
 
 ### Photoshop Scripts & Panels for Comic Books Colorization 
