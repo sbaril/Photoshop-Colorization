@@ -1,5 +1,5 @@
 # Photoshop-Colorization
-##Comic Books Colorization  
+## Comic Books Colorization  
 
 
 ### Photoshop Scripts & Panels for Comic Books Colorization 
@@ -22,7 +22,9 @@ The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean**
 --
 
 ### Photoshop CC 2017 Installer 
-*Installer compatible with the Photoshop versions from CC 2014 to CC 2018+*
+*Installer compatible with the Photoshop versions from* ***CC 2014*** to ***CC 2018+***
+
+*A ***CS6*** Toolbar Sub-panels in now available here: https://github.com/sbaril/Photoshop-Colorization/tree/CS6*
 #### *How to install the Colorization Subpanels:*
 1.  **Download** the **installers**/**ressources**:
 	* "**ColorizationPanel-cc17.zxp**", "**ColorizCleanPanel-cc17.zxp**", "**ColorizStackPanel-cc17.zxp**" and "**Colorization-Presets.zip**" from my GitHub. 
