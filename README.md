@@ -18,7 +18,8 @@ The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean**
 **Tutorials** and **Infos** on my Colorization Subpanels Extensions: 
 * http://sbaril.me/links
 * https://vimeo.com/album/1800688
--
+
+--
 
 ### Quick explanation in 4 steps of the installation process:
 1. Download this free software: http://install.anastasiy.com/ 
@@ -31,8 +32,8 @@ The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean**
 
 --
 
-### Photoshop CC 2017 Installer 
-*Installer compatible with the Photoshop versions from* ***CC 2014*** to ***CC 2018+***
+### Photoshop CC 2017 (and more) Installer 
+*Installer compatible with the Photoshop versions from* ***CC 2014*** to ***CC 2019+***
 
 *A ***CS6*** Toolbar Sub-panels in now available here: https://github.com/sbaril/Photoshop-Colorization/tree/CS6*
 #### *How to install the Colorization Subpanels:*
