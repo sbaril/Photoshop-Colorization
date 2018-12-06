@@ -16,8 +16,18 @@ The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean**
 	* https://creative.adobe.com/addons/products/12047
 
 **Tutorials** and **Infos** on my Colorization Subpanels Extensions: 
-* https://kixtag.com/colorisation
+* http://sbaril.me/links
 * https://vimeo.com/album/1800688
+-
+
+### Quick explanation in 4 steps of the installation process:
+1. Download this free software: http://install.anastasiy.com/ 
+2. Download "**ColorizationPanel-cc17.zxp**", "**ColorizCleanPanel-cc17.zxp**" and "**ColorizStackPanel-cc17.zxp**" from my GitHub
+3. And **drag them** (one by one) on **Anastasiy ExtensionManager** (on Windows run it as administrator)
+4. Restart Photoshop 
+
+*For more details (settings, loading tools…) AND if you want to use **Keyboard Shortcuts**, please read below.*
+
 
 --
 
