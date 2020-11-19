@@ -23,7 +23,7 @@ The 3 **ZXP files** are the **Installers** of **Colorization**, **ColorizClean**
 
 ### Quick explanation in 4 steps of the installation process:
 1. Download this free software: http://install.anastasiy.com/ *(btw take a look at the great http://anastasiy.com/ plug-ins)*
-2. Download "**ColorizationPanel-cc17.zxp**", "**ColorizCleanPanel-cc17.zxp**" and "**ColorizStackPanel-cc17.zxp**" from my GitHub
+2. Download "**ColorizationPanel-CC18.zxp**", "**ColorizCleanPanel-CC18.zxp**" and "**ColorizStackPanel-CC18.zxp**" from my GitHub
 3. And **drag them** (one by one) on **Anastasiy ExtensionManager** *(on Windows run it as administrator)*
 4. Restart Photoshop 
 
